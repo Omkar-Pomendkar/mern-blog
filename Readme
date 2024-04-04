@@ -6,5 +6,9 @@
 6) Use Extensions such as Github Copilot , Auto Rename
 7) ES7+ React.Redux , Multpile Cursor case preserver , Prettier
 8) Do Auto Setting , Tailwind css intellisense
-9) Initialize github Repository in Main Folder go cd..
-10) 
+9) Initialize github Repository in Main Folder go cd.. and push the code in repository
+10) Create pages and routes Folder and inside it create Components / Pages
+11) Install React Router Dom
+12) Now Wrap the Content with Browser ROuter with the Content in App.jsx File
+13) Creating Routes for each Section
+14) Commit all the Changes
