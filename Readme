@@ -26,4 +26,9 @@ Header Component Creation
 
 19) Install React Icons
 20) Now as we are done with Header Components push the Code
-21) 
+21) Create a Server using npm init -y
+22) Create a Folder call API and index.js file init
+23) In index.js write Server code to run on the port
+24) Change type to module
+25) TO run server even after we change anything we have tto use nodemon 
+26) Add a Script for nodemon
