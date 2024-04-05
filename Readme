@@ -32,3 +32,9 @@ Header Component Creation
 24) Change type to module
 25) TO run server even after we change anything we have tto use nodemon 
 26) Add a Script for nodemon
+
+27) Connecting Database Section
+28) Connected MongoDB Database Succesfully
+29) Now as we are using username and password in our file we need to hide it so we are making use of .env variables
+30) To use env Variables we have to install .env Package
+npm i dotenv
