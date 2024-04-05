@@ -12,3 +12,18 @@
 12) Now Wrap the Content with Browser ROuter with the Content in App.jsx File
 13) Creating Routes for each Section
 14) Commit all the Changes
+15) Create Component Folder add Header Component 
+16) Use Header Component in App.jsx file above Routes so that it can be seen in all the Pages
+17) For Creating Header Component we are making use of Flowbite Library
+18) Install and COnfigure Flowbite
+
+Now we are Making use of Link to Hard refresh in our Page
+for that we will make use of Link from React ROuter DOM
+
+Header Component Creation
+1) We made use of Navbar in which we created Link 
+2) Now for Search we are making use of
+
+19) Install React Icons
+20) Now as we are done with Header Components push the Code
+21) 
