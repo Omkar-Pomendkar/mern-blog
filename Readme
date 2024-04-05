@@ -38,3 +38,6 @@ Header Component Creation
 29) Now as we are using username and password in our file we need to hide it so we are making use of .env variables
 30) To use env Variables we have to install .env Package
 npm i dotenv
+31) User models for the project
+32) Create model folder and inside it create
+33) Creae User Model and bby adding moongoose init also make use of timestamps : true to know time of creation and time of Updation
